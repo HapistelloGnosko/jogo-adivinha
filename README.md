@@ -46,5 +46,3 @@ python jogo.py
 - Validação de entrada numérica
 
 ---
-
-<sub>Hapistello Gnosko</sub>

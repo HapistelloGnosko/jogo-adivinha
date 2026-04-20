@@ -47,4 +47,4 @@ python jogo.py
 
 ---
 
-<sub>Hapistello Gnosko · Anápolis, Brasil</sub>
+<sub>Hapistello Gnosko</sub>
